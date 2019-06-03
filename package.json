@@ -1,0 +1,18 @@
+{
+  "name": "@alumis/tokenization",
+  "version": "1.0.0",
+  "description": "Tokenization",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alumis/tokenization.git"
+  },
+  "author": "Emil Müller",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/alumis/tokenization/issues"
+  },
+  "devDependencies": {
+  },
+  "peerDependencies": {
+  }
+}
